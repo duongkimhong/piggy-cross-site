@@ -1,0 +1,13 @@
+:root{color-scheme:light}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Trebuchet MS",system-ui,sans-serif;color:#2b1b4a;background:linear-gradient(#ffe3f1,#e6f6ff);line-height:1.6}
+.wrap{max-width:760px;margin:0 auto;padding:24px 18px 48px}
+header{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+header img{width:72px;height:72px;border-radius:16px;box-shadow:0 4px 14px #0002}
+h1{margin:0;font-size:32px;color:#c2305f}
+h2{margin-top:30px;color:#6a2ea0}
+.hero{width:100%;border-radius:18px;box-shadow:0 6px 22px #0003;margin:8px 0 18px}
+.badge{display:inline-block;background:#ff4d8d;color:#fff;font-weight:800;border-radius:24px;padding:10px 20px}
+ul{padding-left:22px}
+a{color:#c2305f}
+footer{margin-top:36px;font-size:14px;opacity:.8}
